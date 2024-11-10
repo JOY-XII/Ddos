@@ -27,7 +27,6 @@
    pip install httpx
    pip install undetected_chromedriver
    pip install socket
-   pip install random
    cd Ddos
    python LAYER7.py
    ```
