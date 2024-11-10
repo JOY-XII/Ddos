@@ -1,6 +1,6 @@
 # 7 LAYER DDOS
 
-`TERMUX-SETUP` is a utility tool designed to streamline the setup and configuration of your Termux environment. It automates the installation of essential packages, sets up default configurations, and optimizes your Termux workspace for an improved user experience.
+`DDOS` is a utility tool designed to penetrate any website to stop it's working ability. Here 7Layer method uses multiple users tp request to the target website until it loses it's working limit.
 
 ## Features
 
