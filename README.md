@@ -28,14 +28,14 @@
    pip install undetected_chromedriver
    pip install socket
    cd Ddos
-   python LAYER7.py
+   python DDOS-L7.py
    ```
  2. Short for second time:
  3. ````bash
-    rm -rf Termux-Setup
+    rm -rf Ddos
     git clone --depth=1 https://github.com/JOY-XII/Ddos.git
     cd Ddos
-    python LAYER7.py
+    python DDOS-L7.py
     ````
 ## Tool outlook 
 ![Screenshot of the Script](Picsart_24-11-09_03-54-53-974.jpg)
